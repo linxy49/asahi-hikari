@@ -1,0 +1,2 @@
+# asahi-hikari
+wordpress theme
